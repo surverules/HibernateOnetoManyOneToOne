@@ -1,0 +1,7 @@
+com/ms/hibernate/Application.class
+com/ms/hibernate/dao/UserDao.class
+com/ms/hibernate/dao/AddressDao.class
+com/ms/hibernate/entity/User.class
+com/ms/hibernate/entity/Address.class
+com/ms/hibernate/controller/Controller.class
+com/ms/hibernate/entity/Telephone.class
